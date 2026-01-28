@@ -10,16 +10,15 @@
 
 ##  About Me
 
-I enjoy building real-world projects using web technologies and backend systems, and I’m increasingly exploring AI to understand how intelligent systems can be applied in practice.  
+I build practical, real-world projects using web technologies and backend systems, with a growing interest in applying AI to solve everyday problems. I enjoy converting ideas into working applications and continuously improving how systems are designed and implemented.  
 
-Along with coding, I like explaining technical ideas clearly and working in team-based hackathon environments where collaboration and creativity turn ideas into working products.
+Along with coding, I like explaining technical concepts clearly and collaborating in hackathon-style environments where teamwork and creativity turn ideas into functional products.  
 
-My primary interest lies in backend logic and system functionality. While I continue improving my frontend design skills, I efficiently use existing UI templates and AI-assisted tools to adapt and customize interfaces, allowing me to focus on building reliable, working features.
+My primary interest lies in backend logic and system functionality. While I continue improving frontend design skills, I efficiently customize UI templates and use AI-assisted tools to adapt interfaces so I can focus more on building reliable, scalable features.  
 
-I often come up with new project ideas and enjoy implementing them into practical applications.  
+I enjoy brainstorming new project ideas and implementing them into practical, user-focused applications. 
 
-Currently, I am preparing for **Summer Internship 2026** opportunities in software, product, and developer-focused roles where I can learn, contribute, and grow.
-
+**Currently preparing for Summer Internship 2026** in software, product, and developer-focused roles where I can learn, contribute, and grow.  
 
 ---
 
