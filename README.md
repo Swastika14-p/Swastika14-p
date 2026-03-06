@@ -10,15 +10,15 @@
 
 ##  About Me
 
-I build practical, real-world projects using web technologies and backend systems, with a growing interest in applying AI to solve everyday problems. I enjoy converting ideas into working applications and continuously improving how systems are designed and implemented.  
+I am a second-year computer science Undergraduate who enjoys building practical software systems and understanding how technology works behind the scenes. My primary interest lies in backend development, system design, and building tools that solve real-world problems.
 
-Along with coding, I like explaining technical concepts clearly and collaborating in hackathon-style environments where teamwork and creativity turn ideas into functional products.  
+I enjoy working with structured systems such as APIs, data processing tools, and developer utilities. Recently, I have also been exploring how AI and modern technologies can be integrated into useful applications.
 
-My primary interest lies in backend logic and system functionality. While I continue improving frontend design skills, I efficiently customize UI templates and use AI-assisted tools to adapt interfaces so I can focus more on building reliable, scalable features.  
+Beyond coding, I like breaking down complex technical concepts and explaining them clearly. I enjoy collaborative environments where ideas evolve through discussion, experimentation, and iteration.
 
-I enjoy brainstorming new project ideas and implementing them into practical, user-focused applications. 
+While I continue improving my frontend development skills, my main focus is on building reliable functionality, backend logic, and scalable systems.
 
-**Currently preparing for Summer Internship 2026** in software, product, and developer-focused roles where I can learn, contribute, and grow.  
+I am currently preparing for Summer Internship 2026 opportunities and open-source programs such as GSoC, where I hope to contribute to meaningful projects while learning from experienced developers.
 
 ---
 
