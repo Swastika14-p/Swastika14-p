@@ -25,19 +25,19 @@ I am currently preparing for Summer Internship 2026 opportunities and open-sourc
 ## 🛠 Tech Stack
 
 **Languages:**  
-- C++, Python, SQL
+- C, C++, Python
 
 **Web (UI & Markup):**  
-- HTML, CSS (AI-assisted templates & customization, learning in progress)
+- AI-assisted templates & customization, learning in progress
 
-**Backend:**  
-- Flask (basics, learning), Firebase (Authentication, Firestore DB)
+**Backend and Databases:**  
+- Flask (basics, learning), REST APIs concepts, Authentication and security concept, MySQL
 
 **Libraries (Basics):**  
 - Pandas, NumPy, Matplotlib
-- 
+
 **Tools:**  
-- Git, GitHub, Postman, PyCharm, CLion
+- Git, GitHub, Postman, PyCharm, CLion , VsCode
 
 
 ---
